@@ -1,1 +1,5 @@
-a=2
+from c import resta
+
+resta(2,3)
+
+
